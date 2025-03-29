@@ -38,6 +38,6 @@ I'm a Computer Science Engineering student and a backend developer passionate ab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-valverde120&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=luis-valverde120&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=luis-valverde120&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
