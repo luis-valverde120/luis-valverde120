@@ -24,6 +24,7 @@ I'm a Computer Science Engineering student and a backend developer passionate ab
 <br>🌱 Currently learning Flask, Next.js, Go, and distributed systems
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
+<br>
 <br> <b>📫 Contact</b>
 <br>📧 Email: luis.valverde120@gmail.com
 <br>💼 LinkedIn: www.linkedin.com/in/luis-valverde-102653216
