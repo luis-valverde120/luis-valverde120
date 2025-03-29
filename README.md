@@ -1,19 +1,12 @@
 ## Hi I'm Luis Valverde 👋
 
-<!--
-**luis-valverde120/luis-valverde120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Developer-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Ecuador-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+</p>
+---
 # 💫 About Me:
 I'm a Computer Science Engineering student and a backend developer passionate about technology and software development. Currently, I'm learning Go, Python, Node.js, Express, and Next.js.
 <br>
