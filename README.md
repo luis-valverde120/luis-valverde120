@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a Computer Science Engineering student and a backend developer passionate about technology and software development. Currently, I'm learning Go, Python, Node.js, Express, and Next.js.<br><br>🚀 About Me<br>🎓 Computer Science Engineering Student<br><br>🖥️ Passionate about backend development, APIs, and software architecture<br><br>🔧 Experience with Node.js, Python, Express, MySQL, PostgreSQL, and MongoDB<br><br>🌱 Currently learning Flask, Next.js, Go, and distributed systems<br><br>📫 Contact<br>📧 Email: luis.valverde120@gmail.com<br><br>💼 LinkedIn: www.linkedin.com/in/luis-valverde-102653216
+I'm a Computer Science Engineering student and a backend developer passionate about technology and software development. Currently, I'm learning Go, Python, Node.js, Express, and Next.js.
+<br>
+<br>🚀 About Me
+<br>🎓 Computer Science Engineering Student
+<br>🖥️ Passionate about backend development, APIs, and software architecture
+<br>🔧 Experience with Node.js, Python, Express, MySQL, PostgreSQL, and MongoDB
+<br>🌱 Currently learning Flask, Next.js, Go, and distributed systems
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br>
+<br>📫 Contact
+<br>📧 Email: luis.valverde120@gmail.com<br>
+<br>💼 LinkedIn: www.linkedin.com/in/luis-valverde-102653216
 
 
 ## 🌐 Socials:
