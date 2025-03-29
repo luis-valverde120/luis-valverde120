@@ -28,15 +28,6 @@ I'm a Computer Science Engineering student and a backend developer passionate ab
 ![](https://nirzak-streak-stats.vercel.app/?user=luis-valverde120&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-valverde120&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luis-valverde120&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=luis-valverde120&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=luis-valverde120&icon=0&color=4)](https://visitcount.itsvg.in)
 
