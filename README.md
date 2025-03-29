@@ -37,9 +37,6 @@ I'm a Computer Science Engineering student and a backend developer passionate ab
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luis-valverde120&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=luis-valverde120&theme=material-palenight&hide_border=false" />
 </p>
 <br>
